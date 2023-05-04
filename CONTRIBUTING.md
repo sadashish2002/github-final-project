@@ -1,6 +1,8 @@
+# Contributing
+
 * All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-When contributing a major change to this repository, please first discuss the
+* When contributing a major change to this repository, please first discuss the
 change you wish to make via an [issue](contributing/ISSUES.md) or via
 [Slack in the #racial-justice-legit-info 
 channel](https://callforcode.slack.com/archives/C01CRAN53CM) in the [Call for
